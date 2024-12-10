@@ -21,7 +21,7 @@ My name is Aeonn, i'm a cyber-security student and I love to code.
 
 ## SysAdmin
 
-[![SysAdmin skills](https://skillicons.dev/icons?i=linux,bash,cmake,vim,mysql,docker)](https://skillicons.dev)
+[![SysAdmin skills](https://skillicons.dev/icons?i=linux,bash,cmake,postgres,docker,ansible,mysql,postgres)](https://skillicons.dev)
 
 
 # 📊GitHub Stats :
